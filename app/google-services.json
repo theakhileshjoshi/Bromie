@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339830897450",
+    "project_id": "bromie-1e38e",
+    "storage_bucket": "bromie-1e38e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339830897450:android:feedc9718f231ed8133c53",
+        "android_client_info": {
+          "package_name": "com.example.bromie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339830897450-4c90d1vudiuns9h2bjeaepnde48qr5r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ-1hQRUeeNaUvr1vSs06E6vq9epLCBig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339830897450-4c90d1vudiuns9h2bjeaepnde48qr5r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
